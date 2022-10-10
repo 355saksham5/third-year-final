@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.App.Button.OutlinedButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@android:color/transparent</item>
+        <item name="strokeWidth">4dp</item>
+        <item name="android:textColor">#FF2b86e6</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="fontFamily">sans-serif-light</item>
+    </style>
+</resources>
