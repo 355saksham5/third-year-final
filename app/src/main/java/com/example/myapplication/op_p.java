@@ -3,8 +3,10 @@ package com.example.myapplication;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.SystemClock;
+import android.util.Log;
 
 import java.util.Timer;
 import java.util.TimerTask;
@@ -23,6 +25,7 @@ public class op_p extends AppCompatActivity {
                 startActivity(i);
                 overridePendingTransition(android.R.anim.fade_in,android.R.anim.fade_out);
                 finish();
+
             }
         },1500);
     }

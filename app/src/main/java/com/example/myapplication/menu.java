@@ -62,9 +62,21 @@ public class menu extends AppCompatActivity {
         myButton4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(menu.this,mrx.class);
-                startActivity(i);
-                overridePendingTransition(android.R.anim.fade_in,android.R.anim.fade_out);
+                int flag=1;
+                if(flag==0) {
+
+                    Intent i = new Intent(menu.this, mrx.class);
+                    startActivity(i);
+                    overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
+
+                }
+                else
+                {
+                    Intent i = new Intent(menu.this, mrx1.class);
+                    startActivity(i);
+                    overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
+                    flag=0;
+                }
 
 
             }

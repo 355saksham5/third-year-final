@@ -3,16 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/bb.xml" value="0.1695" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/feather.xml" value="0.124" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/ic_crumbled_paper.xml" value="0.1695" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/ic_crumbled_paper__1_.xml" value="0.124" />
         <entry key="..\:/MyApplication2/app/src/main/res/drawable/ic_frame_5.xml" value="0.124" />
         <entry key="..\:/MyApplication2/app/src/main/res/drawable/ic_illustration.xml" value="0.124" />
         <entry key="..\:/MyApplication2/app/src/main/res/drawable/ic_saly_39.xml" value="0.124" />
+        <entry key="..\:/MyApplication2/app/src/main/res/font/bigelow.xml" value="0.14322916666666666" />
+        <entry key="..\:/MyApplication2/app/src/main/res/font/bigelow_rules.regular.xml" value="0.17291666666666666" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/MyApplication2/app/src/main/res/layout/launch_scr.xml" value="0.12" />
         <entry key="..\:/MyApplication2/app/src/main/res/layout/launch_scr2.xml" value="0.12" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/login.xml" value="0.152" />
         <entry key="..\:/MyApplication2/app/src/main/res/layout/menu.xml" value="0.2" />
-        <entry key="..\:/MyApplication2/app/src/main/res/layout/mrx.xml" value="0.1" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/mrx.xml" value="0.12" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/mrx1.xml" value="0.152" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/mrx2.xml" value="0.2" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/mrx3.xml" value="0.12" />
         <entry key="..\:/MyApplication2/app/src/main/res/layout/op_p.xml" value="0.1" />
         <entry key="..\:/MyApplication2/app/src/main/res/layout/tal.xml" value="0.264" />
+        <entry key="..\:/MyApplication2/app/src/main/res/mipmap-anydpi-v26/igh.xml" value="0.124" />
       </map>
     </option>
   </component>
